@@ -1,0 +1,13 @@
+
+*** ThereYouGo Website ***
+==========================
+
+Website URL: https://www.thereyougo.in/
+
+
+
+*** POWER BI DASHBOARD ***
+==========================
+
+PBI Public Link: https://app.powerbi.com/view?r=eyJrIjoiMWJiZDBmMTItNjQzMy00YmQyLWI5OTQtNGEzMmJkZmRjOWE0IiwidCI6IjcwODlkNGIxLTQyMmUtNDYzZi1hNGM3LTViY2FiOTk0MGRiZCJ9
+PBI Community Link: https://community.powerbi.com/t5/Data-Stories-Gallery/ThereYouGo-Products-Analysis/m-p/1977196#M5548
